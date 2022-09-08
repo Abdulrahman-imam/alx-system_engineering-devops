@@ -1,2 +1,3 @@
 #!/bin/bash
-foo () { Name="ANY" ; Value="SomeValue" }
+local var=value
+local varName
