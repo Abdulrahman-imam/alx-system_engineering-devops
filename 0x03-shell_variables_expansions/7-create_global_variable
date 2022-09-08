@@ -1,2 +1,2 @@
 #!/bin/bash
-function variable () { BEST="School" echo "BEST=$BEST" }
+export BEST="School"
