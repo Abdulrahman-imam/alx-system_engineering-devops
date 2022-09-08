@@ -1,2 +1,2 @@
 #!/bin/bash
-foo () { local var="value" }
+foo () { local BEST="School" }
